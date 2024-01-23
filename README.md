@@ -1,2 +1,7 @@
 # steganography
-Using the apparatus of convolutional neural networks for steganalysis of digital images
+
+Использование аппарата сверточных нейронных сетей для стеганоанализа цифровых изображений
+На вход нейронная сеть принимает сжатое изображение размера (512, 512), на выходе два нейрона.(Задача бинарной классификации)
+loss - CrossEntropy 
+optimizer - Adam
+
